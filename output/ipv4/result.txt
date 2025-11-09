@@ -1,27 +1,23 @@
 🕘️更新时间,#genre#
-2025-11-07 18:15:41,http://113.106.171.234:8899/rtp/239.20.0.236:2270$订阅源
+2025-11-09 18:13:13,http://113.106.171.234:8899/rtp/239.20.0.236:2270$订阅源
 
 📺央视频道,#genre#
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-4,http://xtvantsc.xyz/Smart.php?id=cctv4$订阅源
-CCTV-5,http://sh.lnott.top:880/dx05.m3u8$订阅源
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000$订阅源
-CCTV-5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8?key=txiptv$订阅源
 CCTV-5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv$订阅源
 CCTV-6,http://sh.lnott.top:880/dx06.m3u8$订阅源
 CCTV-6,http://xtvantsc.xyz/Smart.php?id=cctv6$订阅源
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
+CCTV-8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-10,http://sh.lnott.top:880/dx10.m3u8$订阅源
 CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://sh.lnott.top:880/dx11.m3u8$订阅源
-CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://xtvantsc.xyz/Smart.php?id=cctv11$订阅源
 CCTV-12,http://sh.lnott.top:880/dx12.m3u8$订阅源
-CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8$订阅源
 CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv$订阅源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 CCTV-12,http://xtvantsc.xyz/Smart.php?id=cctv12$订阅源
@@ -35,6 +31,7 @@ CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8$订阅源
 CCTV-14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv$订阅源
 CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 CCTV-15,http://sh.lnott.top:880/dx15.m3u8$订阅源
+CCTV-15,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv$订阅源
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 CCTV-17,http://sh.lnott.top:880/dx17.m3u8$订阅源
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
@@ -43,17 +40,17 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源
 翡翠台,http://8.138.7.223/tv/hot.php?id=68$订阅源
-翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源
 翡翠台,http://51.89.166.17:3002/index.php?id=jade_twn$订阅源
+翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass$订阅源
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$订阅源
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192$订阅源
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$订阅源
 凤凰资讯,http://smart.cityq.xyz:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0$订阅源
 凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015$订阅源
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$订阅源
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191$订阅源
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
@@ -78,9 +75,9 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC动作电影,https://isus.cc/php/huya.php?id=11602077$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
